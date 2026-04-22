@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+JK flip flop
 
 ## How to test
 
-Explain how to use your project
+Press buttons, see the magic unfold
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None except for power source
